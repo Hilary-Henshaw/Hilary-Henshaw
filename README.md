@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hilary Henshaw
 
-<!--
-**Hilary-Henshaw/Hilary-Henshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Data Scientist | ML & Computer Vision | Healthcare AI`**
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build **machine learning systems** and **data-driven solutions** for healthcare and scientific applications.
+
+* **Data Scientist** — building ML models, deep learning pipelines, and analytical systems for real-world use
+* Focused on **Machine Learning, Computer Vision (YOLOv8), and Healthcare AI**
+* Background in **Biotech & Diagnostic Manufacturing** — experience with clinical data, quality control, and experimental workflows
+
+Passionate about turning **data into actionable insights** that drive impact in healthcare and biotechnology.
+
+#
+
+### Skills & Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,r,postgres,mysql,pytorch,tensorflow,opencv,git,github,linux,docker,bash\&theme=light)](https://skillicons.dev)
+
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilary-Henshaw&show_icons=true&theme=gruvbox)
+
+#
+
+### Stats
+
+![Hilary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hilary-Henshaw&show_icons=true&theme=gruvbox)
+
+#
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hilary-henshaw-1a41ba184/)
