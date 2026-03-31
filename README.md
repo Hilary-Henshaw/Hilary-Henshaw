@@ -6,9 +6,9 @@
 
 I build **machine learning systems** and **data-driven solutions** for healthcare and scientific applications.
 
-* **Data Scientist** — building ML models, deep learning pipelines, and analytical systems for real-world use
+* **Data Scientist**: building ML models, deep learning pipelines, and analytical systems for real-world use
 * Focused on **Machine Learning, Computer Vision (YOLOv8), and Healthcare AI**
-* Background in **Biotech & Diagnostic Manufacturing** — experience with clinical data, quality control, and experimental workflows
+* Background in **Biotech & Diagnostic Manufacturing**: experience with clinical data, quality control, and experimental workflows
 
 Passionate about turning **data into actionable insights** that drive impact in healthcare and biotechnology.
 
@@ -20,13 +20,13 @@ Passionate about turning **data into actionable insights** that drive impact in 
 
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilary-Henshaw&show_icons=true&theme=gruvbox)
+![Top Languages](https://github-readme-stats-amber-five-14.vercel.app/api/top-langs/?username=Hilary-Henshaw&show_icons=true&theme=gruvbox&cache_seconds=86400)
 
 #
 
 ### Stats
 
-![Hilary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hilary-Henshaw&show_icons=true&theme=gruvbox)
+![Hilary's GitHub stats](https://github-readme-stats-amber-five-14.vercel.app/api?username=Hilary-Henshaw&show_icons=true&theme=gruvbox&cache_seconds=86400)
 
 #
 
