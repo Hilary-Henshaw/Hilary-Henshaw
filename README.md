@@ -20,7 +20,7 @@ Passionate about turning **data into actionable insights** that drive impact in 
 
 <br>
 
-![Top Languages](https://github-readme-stats-amber-five-14.vercel.app/api/top-langs/?username=Hilary-Henshaw&show_icons=true&theme=gruvbox&cache_seconds=86400)
+![Top Languages](https://github-readme-stats-amber-five-14.vercel.app/api/top-langs/?username=Hilary-Henshaw&show_icons=true&theme=gruvbox&cache_seconds=86400layout=compact&)
 
 #
 
